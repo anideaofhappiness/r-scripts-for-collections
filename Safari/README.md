@@ -31,7 +31,7 @@ This script will add a notes column so that you can indicate when a book was add
 * Run
 
 ## Titles Added (books_added.R)
-Use this script if you have added many books at once and need to send a list to A&D to add to the catalog.
+Use this script if you have added many books at once and need to send a list to colleagues to add to the library catalog.
 ### Run Safari report
 * Login to the Safari Backoffice using Safari credentials: [https://secure.safaribooksonline.com/bo](https://secure.safaribooksonline.com/bo)
 * Run **ProQuest Bookshelf Urls by Account** report
