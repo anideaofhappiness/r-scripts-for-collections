@@ -21,7 +21,7 @@ The usage report that Safari generates does not include all of the books in your
   * Save as .csv
 
 ### Locate (or create) your notes file
-This script will add a notes column so that you can indicate when a book was added as a suggested purchase (or other notes). The notes file should be saved as a .csv and at the least contain a column titled "notes" and a column titled "isbn" (do not include non-numbers, such as hyphens, in the ISBNs).
+This script will add a notes column so that you can indicate when a book was added as a suggested purchase (or other notes). The notes file should be saved as a .csv and at the least contain a column titled "notes" and a column titled "isbn". If editing this .csv in Excel, be careful that it is not changing the format of the ISBNs when saving; editing the .csv in a text editor is safest.
 
 
 ### Run R script
@@ -31,7 +31,7 @@ This script will add a notes column so that you can indicate when a book was add
 * Run
 
 ## Titles Added (books_added.R)
-Use this script if you have added many books at once and need to send a list to colleagues to add to the library catalog.
+Use this script if you have added many books at once and need to send a list to A&D to add to the catalog.
 ### Run Safari report
 * Login to the Safari Backoffice using Safari credentials: [https://secure.safaribooksonline.com/bo](https://secure.safaribooksonline.com/bo)
 * Run **ProQuest Bookshelf Urls by Account** report
